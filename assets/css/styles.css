@@ -17,6 +17,10 @@ a {
   text-decoration: none;
 }
 
+.time {
+  color: green;
+}
+
 .menu {
   background-color: #005500;
   color: white;
@@ -38,9 +42,6 @@ a {
   font-weight: bold;
 }
 
-td.time {
-  color: green;
-}
 td.item {
     font-weight: bold;
 }
