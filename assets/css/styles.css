@@ -21,25 +21,38 @@ a {
   color: green;
 }
 
-.menu {
+.menu-active {
   background-color: #005500;
   color: white;
   padding: 15px 0px;
-  width: 192px;
+  width: 160px;
   height: 20px;
   text-align: center;
   display: inline-block;
   font-weight: bold;
 }
-.menu-active {
+.menu {
   background-color: #00AA00;
   color: black;
   padding: 15px 0px;
-  width: 192px;
+  width: 160px;
   height: 20px;
   text-align: center;
   display: inline-block;
   font-weight: bold;
+}
+.menu-blank {
+  background-color: #FAFAFA;
+  padding: 0px 0px;
+  width: 160px;
+  height: 50px;
+  text-align: center;
+  display: inline-block;
+}
+img.in-menu {
+  max-width: 140px;
+  max-height: 50px;
+  vertical-align: sub;
 }
 
 td.item {
