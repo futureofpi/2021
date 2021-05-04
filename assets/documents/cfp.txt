@@ -1,0 +1,74 @@
+
+      Workshop "Future of PI" @ EuroS&P'21 (virtual, Sep'21) on
+       Challenges and Perspectives of Personal Identification
+               https://futureofpi.github.io/2021/
+
+             * * *  Call for Presentations  * * *
+
+The goal of the "Future of PI" workshop is to foster discussions and
+collaborations among researchers from various domains related to
+secure Identity Management. Contributed talks can report on current
+research results addressing secure and usable IdM, including
+cryptographic schemes and techniques, analytical results, work on
+systems, and position papers. The organizers also welcome submissions
+from practitioners providing insights into current deployment and
+usability challenges. Topics of interest include, but are not limited
+to:
+
+ * Privacy challenges & privacy-enhancing IdM solutions
+ * Novel cryptographic schemes and protocols for IdM
+ * Biometric and behavioural authentication
+ * Systems implementing new IdM approaches
+ * Implementation and deployment challenges
+ * Analysis of deployed IdM solutions
+ * Usability studies
+ * Techniques for improving the usability of IdM solutions
+ * Social and political aspects of IdM
+
+The workshop will be supported by two keynote presentations by
+Kim Hamilton Duffy (MIT) and Hugo Krawczyk (Algorand Foundation).
+
+As this workshop will not be accompanied by published proceedings,
+contributed talks may correspond to papers that are under submission
+or already published elsewhere.
+
+Talk proposals must comply with the following rules:
+
+ - Submissions must be in English, in PDF format and not exceed
+   3 pages, with reasonable font size and margins.
+ - Submissions must outline the content of the talk and demonstrate
+   its relation to the workshop's topic. In cases where the relevance
+   of a submission in the workshop's context is not immediately clear,
+   the selection committee will appreciate if the submission includes
+   a short exposition why the proposed talk would enrich the workshop.
+ - Submissions must be non-anonymous and indicate who is going to give
+   the talk at the workshop.
+ - Submissions should provide sufficient detail to explain what the
+   talk will be about. If a planned talk is based on a research paper,
+   the submitter is en couraged to submit a copy of the paper along
+   with their talk proposal.
+
+Important dates (all in 2021):
+May 21     Submission of talk proposals (details on workshop website)
+Jul 2      Notification of authors
+Sep 6      Future of PI
+Sep 7-10   EuroS&P (host conference)
+
+Program committee (preliminary)
+  Sven Bugiel (CISPA, Saarbrücken)
+  Markus Dürmuth (Ruhr University Bochum)
+  Simone Fischer-Hübner (Karlstad University)
+  Tore K. Frederiksen (Alexandra Institute, Aarhus)
+  Julia Hesse (chair; IBM Research - Zurich)
+  Jaap-Henk Hoepman (Radboud University, Nijmegen)
+  Stanislaw Jarecki (UC Irvine)
+  Markulf Kohlweiss (University of Edinburgh)
+  Chelsea Komlo (University of Waterloo)
+  Stephan Krenn (AIT, Vienna)
+  Anja Lehmann (chair; Hasso-Plattner Institute/University of Potsdam)
+  Cristina Timón López (University of Murcia)
+  Mark Manulis (University of Surrey)
+  Bertram Poettering (chair; IBM Research - Zurich)
+  Andy Rupp (University of Luxembourg)
+  Nitesh Saxena (University of Alabama at Birmingham)
+  Melanie Volkamer (Karlsruhe Institute of Technology)
