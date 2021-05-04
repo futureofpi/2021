@@ -45,7 +45,7 @@ Talk proposals must comply with the following rules:
    the talk at the workshop.
  - Submissions should provide sufficient detail to explain what the
    talk will be about. If a planned talk is based on a research paper,
-   the submitter is en couraged to submit a copy of the paper along
+   the submitter is encouraged to submit a copy of the paper along
    with their talk proposal.
 
 Important dates (all in 2021):
