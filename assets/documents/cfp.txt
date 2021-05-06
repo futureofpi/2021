@@ -54,7 +54,7 @@ Jul 2      Notification of authors
 Sep 6      Future of PI
 Sep 7-10   EuroS&P (host conference)
 
-Program committee (preliminary)
+Program committee
   Sven Bugiel (CISPA, Saarbrücken)
   Markus Dürmuth (Ruhr University Bochum)
   Simone Fischer-Hübner (Karlstad University)
