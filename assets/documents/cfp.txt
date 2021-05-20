@@ -49,7 +49,8 @@ Talk proposals must comply with the following rules:
    with their talk proposal.
 
 Important dates (all in 2021):
-May 21     Submission of talk proposals (details on workshop website)
+May 28     EXTENDED deadline for submitting talk proposals
+             (details on workshop website)
 Jul 2      Notification of authors
 Sep 6      Future of PI
 Sep 7-10   EuroS&P (host conference)
