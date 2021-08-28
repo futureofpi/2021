@@ -55,13 +55,6 @@ img.in-menu {
   vertical-align: sub;
 }
 
-td.item {
-    font-weight: bold;
-}
-td.abstract {
-    font-style: italic;
-}
-
 span.name  {
     font-weight: bold;
 }
